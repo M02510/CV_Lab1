@@ -68,6 +68,9 @@ When running the script, you'll see three images:
 2. **Resized Image**: The result after seam carving
 3. **Seams Visualization**: Shows which seams were removed (highlighted in red)
 
+![example_result](example_result.png)
+
+
 ## Performance Metrics
 
 The script provides performance metrics including:
