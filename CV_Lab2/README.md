@@ -10,10 +10,10 @@ The main task involves detecting a **query image** within a **target image** by:
 - Drawing circles around the detected points in the target image.
 
 ### Example:
+  <img src="before.png" width="45%" /> &emsp;&emsp;&emsp; <img src="after.png" width="45%" />
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Before** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **After**
 
-  ![Before](before.png)
-
-  ![After](after.png)
 
 ## **Bonus Task: Video Object Detection**
 
