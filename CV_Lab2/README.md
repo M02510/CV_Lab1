@@ -25,14 +25,9 @@ The bonus task extends this to video:
 ### Example Video:
 - The processed video with bounding boxes is available here:
 
-
-https://github.com/user-attachments/assets/4905e166-e304-4661-baa1-7e9e833d7e3b
-
+![output_video](https://github.com/user-attachments/assets/bad85db0-9783-4f8b-939e-ac8c4278301f)
 
 
-## **Dependencies**
-
-- **OpenCV (cv2)**, **NumPy (numpy)**, **Google Colab**.
 
 ## **Usage**
 
