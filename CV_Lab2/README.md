@@ -24,7 +24,12 @@ The bonus task extends this to video:
 
 ### Example Video:
 - The processed video with bounding boxes is available here:
-  ![Output Video](output_video.mp4)
+
+  <video width="45%" controls>
+    <source src="output_video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
 
 ## **Dependencies**
 
